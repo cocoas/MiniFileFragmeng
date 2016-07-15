@@ -59,7 +59,7 @@ public class FileTypeFragment extends BaseFragment {
     protected void initialization() {
 
         List<String> fileTypeNames = new ArrayList<>();
-        fileTypeNames.add("SD卡测试");
+        fileTypeNames.add("所有");
         fileTypeNames.add("图片");
         fileTypeNames.add("文档");
         fileTypeNames.add("压缩文件");
