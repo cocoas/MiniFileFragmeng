@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MiniFileManager</string>
+
+    <string name="empty">没有文件</string>
+    <string name="dialog_read_from_dir">Open from dir</string>
+    <string name="back">回到上一层.....</string>
+    <string name="cantopenfile">不能打开这个文件</string>
+    <string name="files">"个文件"</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="deleting">正在删除…</string>
+    <string name="deletesuccess">删除成功。</string>
+    <string name="cannotbeundoneareyousureyouwanttodelete">"删除后将无法恢复！"</string>
+    <string name="_files">个文件</string>
+    <string name="will_delete">将会被删除</string>
+
+
+</resources>
